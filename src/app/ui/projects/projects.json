@@ -1,0 +1,36 @@
+[
+
+	{
+		"Name" : "Project 1",
+		"HREF" : "project1",
+		"Description" : "This is the first project",
+		"Tasks" :
+		[
+			{
+				"Name" : "Task 1",
+				"Description" : "This is the first task"
+			},
+			{
+				"Name" : "Task 2",
+				"Description" : "This is the second task"
+			}
+		]
+	},
+	{
+		"Name" : "Project 2",
+		"HREF" : "project2",
+		"Description" : "This is the second project",
+		"Tasks" :
+		[
+			{
+				"Name" : "Task 1",
+				"Description" : "This is the first task"
+			},
+			{
+				"Name" : "Task 2",
+				"Description" : "This is the second task"
+			}
+		]
+	}
+
+]
