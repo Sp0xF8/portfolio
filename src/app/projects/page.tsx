@@ -10,12 +10,12 @@ import { getProjects, getProjectById } from "@/app/lib/dbhandler";
 
 export default async function Projects() {
 
-	const projects = await query('SELECT * FROM projects');
-	console.log(projects[0].projectName);
+	// const projects = await query('SELECT * FROM projects');
+	// console.log(projects[0].projectName);
 
-	const project = await getProjectById(1);
+	// const project = await getProjectById(1);
 
-	console.log(project);
+	// console.log(project);
 
 	
 
